@@ -3,10 +3,6 @@
 
 ## Simulation
 
-Step 0: Install Unity from
-
-- https://store.unity.com/download-nuo
-
 Step 1: Go and download Udacity self driving simulator
 
 - https://github.com/udacity/self-driving-car-sim
